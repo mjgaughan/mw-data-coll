@@ -1,0 +1,628 @@
+{
+    "concernedFiles": [
+        {
+            "path": "/tmp/ConfirmEdit/includes/AbuseFilterHooks.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.21683086
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaCacheStore.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.27679697
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HTMLHCaptchaField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.43060505
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaStore.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.66721815
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaSessionStore.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8461851
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/Hooks.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.54308283
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HCaptchaAuthenticationRequest.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7589755
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/HTMLReCaptchaNoCaptchaField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.28743878
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ConfirmEdit.alias.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4120917
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Hooks/HookRunner.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6529958
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/HTMLTurnstileField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.32751897
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Auth/CaptchaAuthenticationRequest.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.50375825
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/CaptchaValue.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2991635
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Specials/SpecialCaptcha.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.58011335
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/maintenance/CountFancyCaptchas.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5275048
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/.phan/config.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.32102767
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/HTMLFancyCaptchaField.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.18721727
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/CaptchaTriggers.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2991635
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/captcha.py",
+            "complexity": {
+                "cyclomatic": 129
+            },
+            "volume": {},
+            "maintainability": {
+                "maintainabilityIndex": 72.71316
+            },
+            "risk": {
+                "score": 0.37304547
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/QuestyCaptcha/includes/QuestyCaptcha.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.2294958
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/ReCaptchaNoCaptchaAuthenticationRequest.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.816468
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Auth/LoginAttemptCounter.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.27256125
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/TurnstileAuthenticationRequest.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7132995
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/Hooks/ResourceLoaderHooks.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7132995
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaHashStore.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7982459
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/Turnstile.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.13060519
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/maintenance/DeleteOldFancyCaptchas.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.1677337
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/maintenance/GenerateFancyCaptchas.php",
+            "complexity": {
+                "cyclomatic": 81
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.6441736
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Auth/CaptchaPreAuthenticationProvider.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.04354465
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Hooks/ConfirmEditTriggersCaptchaHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4120917
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/ApiFancyCaptchaReload.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.62567294
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/Hooks.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.54308283
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Hooks.php",
+            "complexity": {
+                "cyclomatic": 45
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.57912326
+            },
+            "coupling": {
+                "efferent": 56
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/AbuseFilter/CaptchaConsequence.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.7643181
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/ReCaptchaNoCaptcha.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.20178023
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/FancyCaptcha.php",
+            "complexity": {
+                "cyclomatic": 129
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.0332365
+            },
+            "coupling": {
+                "efferent": 64
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HCaptcha.php",
+            "complexity": {
+                "cyclomatic": 41
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.21197835
+            },
+            "coupling": {
+                "efferent": 56
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/captcha-old.py",
+            "complexity": {
+                "cyclomatic": 105
+            },
+            "volume": {},
+            "maintainability": {
+                "maintainabilityIndex": 75.23934
+            },
+            "risk": {
+                "score": 0.23848557
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/SimpleCaptcha/SimpleCaptcha.php",
+            "complexity": {
+                "cyclomatic": 333
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.9214289
+            },
+            "coupling": {
+                "efferent": 128
+            }
+        }
+    ],
+    "numberFiles": 39,
+    "numberClasses": 34,
+    "numberClassesWithCode": 34,
+    "numberMethods": 236,
+    "loc": 6014,
+    "averageMethodsPerClass": 6.9411764705882355,
+    "averageLocPerMethod": 14.279661016949152,
+    "averageLlocPerMethod": 1.2203389830508475,
+    "averageClocPerMethod": 0.1864406779661017,
+    "averageCyclomaticComplexityPerMethod": 1.152542372881356,
+    "averageCyclomaticComplexityPerClass": 6.294117647058823,
+    "minCyclomaticComplexity": 9,
+    "maxCyclomaticComplexity": 83,
+    "averageHalsteadDifficulty": 0.6081932803396793,
+    "averageHalsteadEffort": 208.83345550846528,
+    "averageHalsteadVolume": 35.79776689059594,
+    "averageHalsteadTime": 11.601858088116655,
+    "sumHalsteadDifficulty": 20.678571531549096,
+    "sumHalsteadEffort": 7100.337487287819,
+    "sumHalsteadVolume": 1217.124074280262,
+    "sumHalsteadTime": 394.46317499596626,
+    "averageMI": 108.13272397658405,
+    "averageMIwoc": 59.14349527919994,
+    "averageMIcw": 38.93040567285874,
+    "averageMIPerMethod": 165.2443538924395,
+    "averageMIwocPerMethod": 164.24200717473434,
+    "averageMIcwPerMethod": 1.0023467338691323,
+    "averageEfferentCoupling": 180,
+    "averageInstability": 0.7144301875549204,
+    "commitCountForPeriod": 59,
+    "busFactor": 2,
+    "topCommitters": [
+        {
+            "name": "Umherirrender",
+            "count": 35
+        },
+        {
+            "name": "Reedy",
+            "count": 33
+        },
+        {
+            "name": "Kosta Harlan",
+            "count": 10
+        },
+        {
+            "name": "Amir Sarabadani",
+            "count": 9
+        }
+    ],
+    "gitAnalysis": [
+        {
+            "ProgrammingLanguage": "",
+            "ReportRootDir": "/tmp/ConfirmEdit",
+            "CountCommits": 263,
+            "CountCommiters": 19,
+            "CountCommitsForLanguage": 59,
+            "CountCommitsIgnored": 204
+        }
+    ],
+    "packageRelations": {
+        "MediaWiki\\Extension": {
+            "MediaWiki": 115,
+            "MediaWiki\\Auth": 105,
+            "MediaWiki\\Cache": 15,
+            "MediaWiki\\Config": 30,
+            "MediaWiki\\Context": 45,
+            "MediaWiki\\EditPage": 10,
+            "MediaWiki\\ExternalLinks": 10,
+            "MediaWiki\\HTMLForm": 5,
+            "MediaWiki\\HookContainer": 5,
+            "MediaWiki\\Html": 245,
+            "MediaWiki\\Language": 15,
+            "MediaWiki\\Logger": 20,
+            "MediaWiki\\Message": 5,
+            "MediaWiki\\Output": 15,
+            "MediaWiki\\Page": 5,
+            "MediaWiki\\Request": 40,
+            "MediaWiki\\ResourceLoader": 5,
+            "MediaWiki\\Revision": 5,
+            "MediaWiki\\Session": 20,
+            "MediaWiki\\SpecialPage": 25,
+            "MediaWiki\\Status": 35,
+            "MediaWiki\\Title": 5,
+            "MediaWiki\\User": 55,
+            "MediaWiki\\Utils": 5,
+            "MediaWiki\\WikiMap": 5,
+            "OOUI": 15,
+            "Wikimedia": 20
+        }
+    }
+}
