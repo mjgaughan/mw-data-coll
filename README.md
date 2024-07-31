@@ -1,27 +1,19 @@
-# Project Title
+# STEMM Role Models App
 
-## Getting Started
+## Welcome!
 
-### Prerequisites
+### What are we doing?
 
-### Installing
+### Who are we?
 
-## Running the tests
+## What do we need?
 
-### Break down into end to end tests
+### Get involved
 
-### And coding style tests
+### Contact us
 
-## Deployment
+## Find out more
 
-## Built With
+## Thank you
 
-## Contributing
-
-## Versioning
-
-## Authors
-
-## License
-
-## Acknowledgments
+## Glossary
