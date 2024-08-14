@@ -8,105 +8,7 @@
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.21683086
-            },
-            "coupling": {
-                "efferent": 12
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaCacheStore.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.27679697
-            },
-            "coupling": {
-                "efferent": 12
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HTMLHCaptchaField.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.43060505
-            },
-            "coupling": {
-                "efferent": 12
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaStore.php",
-            "complexity": {
-                "cyclomatic": 13
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.66721815
-            },
-            "coupling": {
-                "efferent": 16
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaSessionStore.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.8461851
-            },
-            "coupling": {
-                "efferent": 4
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/Turnstile/includes/Hooks.php",
-            "complexity": {
-                "cyclomatic": 5
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.54308283
-            },
-            "coupling": {
-                "efferent": 12
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HCaptchaAuthenticationRequest.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.7589755
-            },
-            "coupling": {
-                "efferent": 8
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/HTMLReCaptchaNoCaptchaField.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.28743878
+                "score": -0.18374422
             },
             "coupling": {
                 "efferent": 12
@@ -125,31 +27,17 @@
             "coupling": {}
         },
         {
-            "path": "/tmp/ConfirmEdit/includes/Hooks/HookRunner.php",
+            "path": "/tmp/ConfirmEdit/includes/AbuseFilter/CaptchaConsequence.php",
             "complexity": {
                 "cyclomatic": 1
             },
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.6529958
+                "score": -1.7437515
             },
             "coupling": {
-                "efferent": 8
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/Turnstile/includes/HTMLTurnstileField.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.32751897
-            },
-            "coupling": {
-                "efferent": 12
+                "efferent": 4
             }
         },
         {
@@ -167,72 +55,6 @@
             }
         },
         {
-            "path": "/tmp/ConfirmEdit/includes/CaptchaValue.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -1.2991635
-            },
-            "coupling": {}
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/Specials/SpecialCaptcha.php",
-            "complexity": {
-                "cyclomatic": 5
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.58011335
-            },
-            "coupling": {
-                "efferent": 4
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/maintenance/CountFancyCaptchas.php",
-            "complexity": {
-                "cyclomatic": 9
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.5275048
-            },
-            "coupling": {
-                "efferent": 8
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/.phan/config.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.32102767
-            },
-            "coupling": {}
-        },
-        {
-            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/HTMLFancyCaptchaField.php",
-            "complexity": {
-                "cyclomatic": 9
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.18721727
-            },
-            "coupling": {
-                "efferent": 8
-            }
-        },
-        {
             "path": "/tmp/ConfirmEdit/includes/CaptchaTriggers.php",
             "complexity": {
                 "cyclomatic": 1
@@ -245,18 +67,18 @@
             "coupling": {}
         },
         {
-            "path": "/tmp/ConfirmEdit/captcha.py",
+            "path": "/tmp/ConfirmEdit/maintenance/CountFancyCaptchas.php",
             "complexity": {
-                "cyclomatic": 129
+                "cyclomatic": 9
             },
             "volume": {},
-            "maintainability": {
-                "maintainabilityIndex": 72.71316
-            },
+            "maintainability": {},
             "risk": {
-                "score": 0.37304547
+                "score": -0.5123244
             },
-            "coupling": {}
+            "coupling": {
+                "efferent": 8
+            }
         },
         {
             "path": "/tmp/ConfirmEdit/QuestyCaptcha/includes/QuestyCaptcha.php",
@@ -266,10 +88,94 @@
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": 0.2294958
+                "score": 0.23506786
             },
             "coupling": {
                 "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/HTMLTurnstileField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.28522396
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Auth/LoginAttemptCounter.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.22927636
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/Hooks.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5152705
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaCacheStore.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.21811244
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/maintenance/GenerateFancyCaptchas.php",
+            "complexity": {
+                "cyclomatic": 81
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.76639736
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HCaptchaAuthenticationRequest.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7589755
+            },
+            "coupling": {
+                "efferent": 8
             }
         },
         {
@@ -281,48 +187,6 @@
             "maintainability": {},
             "risk": {
                 "score": -0.816468
-            },
-            "coupling": {
-                "efferent": 8
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/Auth/LoginAttemptCounter.php",
-            "complexity": {
-                "cyclomatic": 17
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.27256125
-            },
-            "coupling": {
-                "efferent": 20
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/Turnstile/includes/TurnstileAuthenticationRequest.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.7132995
-            },
-            "coupling": {
-                "efferent": 8
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/hCaptcha/includes/Hooks/ResourceLoaderHooks.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.7132995
             },
             "coupling": {
                 "efferent": 8
@@ -341,60 +205,46 @@
             "coupling": {}
         },
         {
-            "path": "/tmp/ConfirmEdit/Turnstile/includes/Turnstile.php",
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaSessionStore.php",
             "complexity": {
-                "cyclomatic": 37
+                "cyclomatic": 1
             },
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.13060519
+                "score": -0.8461851
             },
             "coupling": {
-                "efferent": 48
+                "efferent": 4
             }
         },
         {
-            "path": "/tmp/ConfirmEdit/maintenance/DeleteOldFancyCaptchas.php",
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/TurnstileAuthenticationRequest.php",
             "complexity": {
-                "cyclomatic": 29
+                "cyclomatic": 1
             },
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.1677337
+                "score": -0.6992278
             },
             "coupling": {
-                "efferent": 12
+                "efferent": 8
             }
         },
         {
-            "path": "/tmp/ConfirmEdit/maintenance/GenerateFancyCaptchas.php",
+            "path": "/tmp/ConfirmEdit/captcha.py",
             "complexity": {
-                "cyclomatic": 81
+                "cyclomatic": 133
             },
             "volume": {},
-            "maintainability": {},
+            "maintainability": {
+                "maintainabilityIndex": 72.36771
+            },
             "risk": {
-                "score": 0.6441736
+                "score": 0.3993994
             },
-            "coupling": {
-                "efferent": 28
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/Auth/CaptchaPreAuthenticationProvider.php",
-            "complexity": {
-                "cyclomatic": 37
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": 0.04354465
-            },
-            "coupling": {
-                "efferent": 44
-            }
+            "coupling": {}
         },
         {
             "path": "/tmp/ConfirmEdit/includes/Hooks/ConfirmEditTriggersCaptchaHook.php",
@@ -409,6 +259,100 @@
             "coupling": {}
         },
         {
+            "path": "/tmp/ConfirmEdit/.phan/config.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.30766177
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/Turnstile.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.08404928
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/HTMLFancyCaptchaField.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.14150076
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/CaptchaValue.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2991635
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/HTMLHCaptchaField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.40129203
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/hCaptcha/includes/Hooks/ResourceLoaderHooks.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6992278
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/maintenance/DeleteOldFancyCaptchas.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.1341626
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
             "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/ApiFancyCaptchaReload.php",
             "complexity": {
                 "cyclomatic": 1
@@ -416,24 +360,94 @@
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.62567294
+                "score": -0.6111057
             },
             "coupling": {
                 "efferent": 4
             }
         },
         {
-            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/Hooks.php",
+            "path": "/tmp/ConfirmEdit/Turnstile/includes/Hooks.php",
             "complexity": {
                 "cyclomatic": 5
             },
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.54308283
+                "score": -0.5152705
             },
             "coupling": {
                 "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Hooks/HookRunner.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6529958
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/HTMLReCaptchaNoCaptchaField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.25572067
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Specials/SpecialCaptcha.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.56527126
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Store/CaptchaStore.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.65290236
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/includes/Auth/CaptchaPreAuthenticationProvider.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.1064381
+            },
+            "coupling": {
+                "efferent": 44
             }
         },
         {
@@ -444,52 +458,10 @@
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": 0.57912326
+                "score": 0.68351257
             },
             "coupling": {
                 "efferent": 56
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/includes/AbuseFilter/CaptchaConsequence.php",
-            "complexity": {
-                "cyclomatic": 1
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -1.7643181
-            },
-            "coupling": {
-                "efferent": 4
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/ReCaptchaNoCaptcha.php",
-            "complexity": {
-                "cyclomatic": 37
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": -0.20178023
-            },
-            "coupling": {
-                "efferent": 48
-            }
-        },
-        {
-            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/FancyCaptcha.php",
-            "complexity": {
-                "cyclomatic": 129
-            },
-            "volume": {},
-            "maintainability": {},
-            "risk": {
-                "score": 1.0332365
-            },
-            "coupling": {
-                "efferent": 64
             }
         },
         {
@@ -500,10 +472,24 @@
             "volume": {},
             "maintainability": {},
             "risk": {
-                "score": -0.21197835
+                "score": -0.17953598
             },
             "coupling": {
                 "efferent": 56
+            }
+        },
+        {
+            "path": "/tmp/ConfirmEdit/ReCaptchaNoCaptcha/includes/ReCaptchaNoCaptcha.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.16907713
+            },
+            "coupling": {
+                "efferent": 48
             }
         },
         {
@@ -516,9 +502,23 @@
                 "maintainabilityIndex": 75.23934
             },
             "risk": {
-                "score": 0.23848557
+                "score": 0.24935517
             },
             "coupling": {}
+        },
+        {
+            "path": "/tmp/ConfirmEdit/FancyCaptcha/includes/FancyCaptcha.php",
+            "complexity": {
+                "cyclomatic": 129
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.0783021
+            },
+            "coupling": {
+                "efferent": 64
+            }
         },
         {
             "path": "/tmp/ConfirmEdit/SimpleCaptcha/SimpleCaptcha.php",
@@ -539,14 +539,14 @@
     "numberClasses": 34,
     "numberClassesWithCode": 34,
     "numberMethods": 236,
-    "loc": 6014,
+    "loc": 6030,
     "averageMethodsPerClass": 6.9411764705882355,
-    "averageLocPerMethod": 14.279661016949152,
-    "averageLlocPerMethod": 1.2203389830508475,
+    "averageLocPerMethod": 14.296610169491526,
+    "averageLlocPerMethod": 1.2330508474576272,
     "averageClocPerMethod": 0.1864406779661017,
-    "averageCyclomaticComplexityPerMethod": 1.152542372881356,
+    "averageCyclomaticComplexityPerMethod": 1.1567796610169492,
     "averageCyclomaticComplexityPerClass": 6.294117647058823,
-    "minCyclomaticComplexity": 9,
+    "minCyclomaticComplexity": 1,
     "maxCyclomaticComplexity": 83,
     "averageHalsteadDifficulty": 0.6081932803396793,
     "averageHalsteadEffort": 208.83345550846528,
@@ -559,12 +559,12 @@
     "averageMI": 108.13272397658405,
     "averageMIwoc": 59.14349527919994,
     "averageMIcw": 38.93040567285874,
-    "averageMIPerMethod": 165.2443538924395,
-    "averageMIwocPerMethod": 164.24200717473434,
-    "averageMIcwPerMethod": 1.0023467338691323,
+    "averageMIPerMethod": 165.23410753476418,
+    "averageMIwocPerMethod": 164.23542680578717,
+    "averageMIcwPerMethod": 0.9986807532229666,
     "averageEfferentCoupling": 180,
     "averageInstability": 0.7144301875549204,
-    "commitCountForPeriod": 59,
+    "commitCountForPeriod": 57,
     "busFactor": 2,
     "topCommitters": [
         {
@@ -573,14 +573,14 @@
         },
         {
             "name": "Reedy",
-            "count": 33
+            "count": 34
         },
         {
             "name": "Kosta Harlan",
             "count": 10
         },
         {
-            "name": "Amir Sarabadani",
+            "name": "Bartosz Dziewoński",
             "count": 9
         }
     ],
@@ -588,10 +588,10 @@
         {
             "ProgrammingLanguage": "",
             "ReportRootDir": "/tmp/ConfirmEdit",
-            "CountCommits": 263,
-            "CountCommiters": 19,
-            "CountCommitsForLanguage": 59,
-            "CountCommitsIgnored": 204
+            "CountCommits": 256,
+            "CountCommiters": 17,
+            "CountCommitsForLanguage": 57,
+            "CountCommitsIgnored": 199
         }
     ],
     "packageRelations": {

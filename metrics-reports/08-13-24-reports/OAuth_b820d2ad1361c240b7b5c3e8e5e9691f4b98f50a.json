@@ -1,0 +1,1404 @@
+{
+    "concernedFiles": [
+        {
+            "path": "/tmp/OAuth/src/Entity/AuthCodeEntity.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2062635
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/UserStatementProvider.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.019494772
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/MWClientEntityInterface.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41173467
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/UpdaterHooks.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.3298103
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/Grant/RefreshToken.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6913215
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/AbuseFilterHookHandler.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4303028
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/AuthCodeRepository.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7357045
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthSignatureMethod_PLAINTEXT.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.76301503
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthRequest.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.42369115
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/UIHooks.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.4445789
+            },
+            "coupling": {
+                "efferent": 64
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/ServiceWiring.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34275642
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthServer.php",
+            "complexity": {
+                "cyclomatic": 49
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.39148575
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthToken.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.52910954
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/AccessTokenRepository.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.26388758
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthToken.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.81791234
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/maintenance/testOAuthConsumer.php",
+            "complexity": {
+                "cyclomatic": 53
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34439996
+            },
+            "coupling": {
+                "efferent": 9
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/UserEntity.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6114198
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/ClientEntity.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.42393982
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/Grant/AuthorizationCodeAuthorization.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.43699175
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/RefreshTokenRepository.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7357045
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/ScopeRepository.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.39643842
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/OAuth1Consumer.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5107637
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthUtil.php",
+            "complexity": {
+                "cyclomatic": 77
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38751465
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/CacheRepository.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7784498
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/ConsumerAcceptanceAccessControl.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.705147
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthSignatureMethod_RSA_SHA1.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.65009797
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/SpecialPages/SpecialMWOAuthListConsumers.php",
+            "complexity": {
+                "cyclomatic": 77
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.4016145
+            },
+            "coupling": {
+                "efferent": 80
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/Grant/AuthorizationCodeAccessTokens.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.71549386
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/Grant/ClientCredentials.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6913215
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/Pagers/ManageConsumersPager.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.31833094
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthSignatureMethod_HMAC_SHA1.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.71800363
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthDataStore.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.85032845
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/maintenance/migrateCentralWiki.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.3451708
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/ConsumerAcceptanceSubmitControl.php",
+            "complexity": {
+                "cyclomatic": 53
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.010186151
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/OAuth/examples/testClient.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41173467
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.48012328
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/SpecialPages/SpecialMWOAuthManageMyGrants.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.64147377
+            },
+            "coupling": {
+                "efferent": 68
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/ClaimEntity.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.883443
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/maintenance/migrateCentralWikiLogs.php",
+            "complexity": {
+                "cyclomatic": 41
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.38465333
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/IAccessTokenProvider.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41173467
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/ScopeEntity.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.93432415
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthSignatureMethod.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.52323854
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/HookRunner.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.79408807
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/RefreshTokenEntity.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2062635
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthConsumer.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.42064816
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/ClaimStore.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.66522026
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/Pagers/ListMyConsumersPager.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.31833094
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/AbstractClientHandler.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.15560718
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Setup.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38992164
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/UIUtils.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.49020255
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/Pagers/ManageMyGrantsPager.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.33365434
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/AuthenticationHandler.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.5094147
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2062635
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Response.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.57849085
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationServerFactory.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.45407173
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/ResetClientSecret.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.21283376
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/OAuth/MWOAuth.alias.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34275642
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/ConsumerAccessControl.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.43820518
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/OAuthLogFormatter.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.29900712
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/Authorize.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.21877882
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/EchoOAuthStageChangePresentationModel.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.2818975
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/AccessToken.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.65458757
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Entity/AccessTokenEntity.php",
+            "complexity": {
+                "cyclomatic": 41
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.1328787
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/ListClients.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.08084028
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Exception/ClientApprovalDenyException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.2062635
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/Hook/OAuthClaimStoreGetClaimsHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41173467
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/ResourceServer.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.21396889
+            },
+            "coupling": {
+                "efferent": 52
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/SpecialPages/SpecialMWOAuthConsumerRegistration.php",
+            "complexity": {
+                "cyclomatic": 121
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.1765468
+            },
+            "coupling": {
+                "efferent": 112
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/Resource.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.49937025
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/OAuth/examples/testClientHeaders.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41173467
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/DAOAccessControl.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.45733106
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/ConsumerSubmitControl.php",
+            "complexity": {
+                "cyclomatic": 285
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.5998218
+            },
+            "coupling": {
+                "efferent": 104
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/IAuthorizationProvider.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34275642
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthServer.php",
+            "complexity": {
+                "cyclomatic": 65
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.24222992
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/Workflow.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.64303756
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/OAuthServices.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7223418
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/SessionProvider.php",
+            "complexity": {
+                "cyclomatic": 129
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.91455925
+            },
+            "coupling": {
+                "efferent": 104
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/ConsumerAcceptance.php",
+            "complexity": {
+                "cyclomatic": 45
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.018347196
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthRequest.php",
+            "complexity": {
+                "cyclomatic": 53
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.2423764
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/SpecialPages/SpecialMWOAuthManageConsumers.php",
+            "complexity": {
+                "cyclomatic": 105
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.6592936
+            },
+            "coupling": {
+                "efferent": 76
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/Pagers/ListConsumersPager.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.17953977
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/ClientRepository.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.68130136
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Frontend/SpecialPages/SpecialMWOAuth.php",
+            "complexity": {
+                "cyclomatic": 197
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.079567
+            },
+            "coupling": {
+                "efferent": 112
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/RequestClient.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.28904203
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Rest/Handler/AccessToken.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.20361197
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Repository/DatabaseRepository.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.69661176
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Lib/OAuthSignatureMethod_RSA_SHA1.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.74026
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/.phan/config.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.27788684
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/OAuth/maintenance/createOAuthConsumer.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.08835703
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Control/SubmitControl.php",
+            "complexity": {
+                "cyclomatic": 121
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.2210418
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/Hooks.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.5372106
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/AuthorizationProvider/AuthorizationProvider.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.36790818
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthDataStore.php",
+            "complexity": {
+                "cyclomatic": 49
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.100084394
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/Utils.php",
+            "complexity": {
+                "cyclomatic": 109
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.80754626
+            },
+            "coupling": {
+                "efferent": 68
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/MWOAuthDAO.php",
+            "complexity": {
+                "cyclomatic": 85
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.5260777
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/OAuth/src/Backend/Consumer.php",
+            "complexity": {
+                "cyclomatic": 125
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.8483491
+            },
+            "coupling": {
+                "efferent": 76
+            }
+        }
+    ],
+    "numberFiles": 96,
+    "numberClasses": 88,
+    "numberClassesWithCode": 88,
+    "numberMethods": 637,
+    "loc": 16097,
+    "averageMethodsPerClass": 7.238636363636363,
+    "averageLocPerMethod": 14.85557299843014,
+    "averageCyclomaticComplexityPerMethod": 1.021978021978022,
+    "averageCyclomaticComplexityPerClass": 7.3977272727272725,
+    "minCyclomaticComplexity": 2,
+    "maxCyclomaticComplexity": 71,
+    "averageHalsteadDifficulty": 0.7602054556112059,
+    "averageHalsteadEffort": 222.78194717952812,
+    "averageHalsteadVolume": 43.387866212309085,
+    "averageHalsteadTime": 12.376774627397852,
+    "sumHalsteadDifficulty": 66.89808009378612,
+    "sumHalsteadEffort": 19604.811351798475,
+    "sumHalsteadVolume": 3818.1322266831994,
+    "sumHalsteadTime": 1089.156167211011,
+    "averageMI": 101.311476317319,
+    "averageMIwoc": 62.02127689665014,
+    "averageMIcw": 37.34701798178933,
+    "averageMIPerMethod": 171,
+    "averageMIwocPerMethod": 171,
+    "averageEfferentCoupling": 563,
+    "averageInstability": 0.6787149203009903,
+    "commitCountForPeriod": 61,
+    "busFactor": 1,
+    "topCommitters": [
+        {
+            "name": "Umherirrender",
+            "count": 110
+        },
+        {
+            "name": "Gergő Tisza",
+            "count": 24
+        },
+        {
+            "name": "gerritbot",
+            "count": 10
+        },
+        {
+            "name": "MPGuy2824",
+            "count": 10
+        }
+    ],
+    "gitAnalysis": [
+        {
+            "ProgrammingLanguage": "",
+            "ReportRootDir": "/tmp/OAuth",
+            "CountCommits": 233,
+            "CountCommiters": 16,
+            "CountCommitsForLanguage": 61,
+            "CountCommitsIgnored": 172
+        }
+    ],
+    "packageRelations": {
+        "MediaWiki\\Extension": {
+            "Composer\\Semver": 5,
+            "Firebase\\JWT": 5,
+            "GuzzleHttp\\Psr7": 20,
+            "League\\OAuth2": 185,
+            "MediaWiki": 250,
+            "MediaWiki\\Config": 15,
+            "MediaWiki\\Context": 135,
+            "MediaWiki\\Deferred": 10,
+            "MediaWiki\\HTMLForm": 60,
+            "MediaWiki\\HookContainer": 5,
+            "MediaWiki\\Html": 70,
+            "MediaWiki\\Linker": 130,
+            "MediaWiki\\Logger": 65,
+            "MediaWiki\\Message": 115,
+            "MediaWiki\\Parser": 10,
+            "MediaWiki\\Permissions": 45,
+            "MediaWiki\\Request": 30,
+            "MediaWiki\\Rest": 90,
+            "MediaWiki\\Session": 25,
+            "MediaWiki\\SpecialPage": 135,
+            "MediaWiki\\Status": 10,
+            "MediaWiki\\Storage": 5,
+            "MediaWiki\\Title": 40,
+            "MediaWiki\\User": 195,
+            "MediaWiki\\WikiMap": 95,
+            "OOUI": 45,
+            "Psr\\Http": 70,
+            "Wikimedia\\Message": 30,
+            "Wikimedia\\ParamValidator": 385,
+            "Wikimedia\\Rdbms": 160
+        }
+    }
+}

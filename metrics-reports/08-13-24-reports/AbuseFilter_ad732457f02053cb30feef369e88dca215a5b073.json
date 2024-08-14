@@ -1,0 +1,2457 @@
+{
+    "concernedFiles": [
+        {
+            "path": "/tmp/AbuseFilter/includes/LogFormatter/AbuseFilterSuppressLogFormatter.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.550738
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/CentralDBManager.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6626813
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/BlockedDomainFilter.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.18674138
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/ChangeTags/ChangeTagValidator.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5209859
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/ActionSpecifier.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7304613
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Special/SpecialAbuseFilter.php",
+            "complexity": {
+                "cyclomatic": 49
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.16516013
+            },
+            "coupling": {
+                "efferent": 116
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterBuilderHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterCustomActionsHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterComputeVariableHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38016587
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterUtils.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7163434
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/ClosestFilterVersionNotFoundException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.9507483
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseLoggerFactory.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.46689478
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/TextExtractor.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5956012
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/maintenance/AddMissingLoggingEntries.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.20819354
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/ReversibleConsequence.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/UserMergeHandler.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.329692
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/FilterVersionNotFoundException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6255245
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterContentToStringHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/ConsequencesLookup.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.31484622
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/AbstractFilter.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5385253
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/CheckUserHandler.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.53875357
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/ChangeTags/ChangeTagsManager.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41185158
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/AbuseFilter.alias.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.31892705
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/LastEditInfo.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7892473
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Parameters.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.76758707
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/EvalExpression.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.43303937
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/ConsequenceNotPrecheckedException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.5783938
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/Filter.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7255033
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/Exception/InternalException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.1779923
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterRunnerFactory.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.33982605
+            },
+            "coupling": {
+                "efferent": 88
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AFPSyntaxTree.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.9267303
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/VariableGenerator/RCVariableGenerator.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.006877005
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/HookAborterConsequence.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/ChangeTagsHandler.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7463325
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/TableDiffFormatterFullContext.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6522074
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterAlterVariablesHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34912828
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/VariableGenerator/VariableGeneratorFactory.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.43272126
+            },
+            "coupling": {
+                "efferent": 52
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/ConsequencesDisablerConsequence.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditBox/EditBoxBuilder.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.12801325
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/Specs.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7533711
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/RecentChangeSaveHandler.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.80241436
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/FilteredActionsHandler.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.13815564
+            },
+            "coupling": {
+                "efferent": 68
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/ServiceWiring.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.095587686
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/QueryAbuseLog.php",
+            "complexity": {
+                "cyclomatic": 161
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.6257142
+            },
+            "coupling": {
+                "efferent": 64
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterGenerateUserVarsHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38016587
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/BlockAutopromote.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6017913
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewRevert.php",
+            "complexity": {
+                "cyclomatic": 53
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.24806143
+            },
+            "coupling": {
+                "efferent": 92
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterImporter.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.33057922
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/ConsequencesExecutor.php",
+            "complexity": {
+                "cyclomatic": 113
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.04062663
+            },
+            "coupling": {
+                "efferent": 64
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/HistoryFilter.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7604562
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EchoNotifier.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6156912
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewList.php",
+            "complexity": {
+                "cyclomatic": 93
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.30898055
+            },
+            "coupling": {
+                "efferent": 68
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/VariablesManager.php",
+            "complexity": {
+                "cyclomatic": 53
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.22066407
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Pager/AbuseFilterHistoryPager.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.29380953
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/KeywordsManager.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34840745
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/RangeBlock.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6165459
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewTools.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.3742447
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Degroup.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38186872
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Watcher/EmergencyWatcher.php",
+            "complexity": {
+                "cyclomatic": 33
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.32000935
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewImport.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.52611786
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseFilter.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.1779923
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/RegistrationCallback.php",
+            "complexity": {
+                "cyclomatic": 41
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.30994046
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/FilterNotFoundException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8261983
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/CheckMatch.php",
+            "complexity": {
+                "cyclomatic": 41
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.19489951
+            },
+            "coupling": {
+                "efferent": 60
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewTestBatch.php",
+            "complexity": {
+                "cyclomatic": 65
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.15077427
+            },
+            "coupling": {
+                "efferent": 72
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseFilterServices.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.63848066
+            },
+            "coupling": {
+                "efferent": 156
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditStashCache.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5381809
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewExamine.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.46671715
+            },
+            "coupling": {
+                "efferent": 96
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Consequence.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6066402
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/.phan/config.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34912828
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/ThrottleFilterPresentationModel.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.457959
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/AutoPromoteGroupsHandler.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5111557
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/BlockedDomainStorage.php",
+            "complexity": {
+                "cyclomatic": 77
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.09747339
+            },
+            "coupling": {
+                "efferent": 72
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/EditPermissionHandler.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.033462174
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/BlockingConsequence.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.47701347
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/ConsequencesFactory.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.52611786
+            },
+            "coupling": {
+                "efferent": 104
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/ToolLinksHandler.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4110694
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditBox/EditBoxField.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8171746
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/MutableFilter.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.45044655
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AFPToken.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.841261
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AFPParserState.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8795804
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterFilterActionHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38016587
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Tag.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8187261
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewHistory.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.096003905
+            },
+            "coupling": {
+                "efferent": 52
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterDeprecatedVariablesHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/ExistingFilter.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7604562
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/Exception/ExceptionBase.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8261983
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/ConfirmEditHandler.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38455415
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/RuleCheckerFactory.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.628487
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseFilterPreAuthenticationProvider.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5865064
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditBox/EditBoxBuilderFactory.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.40995166
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/Exception/UserVisibleException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.60209966
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/BlockAutopromoteStore.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5112652
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/RunnerData.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.63798416
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/LogFormatter/AbuseFilterRightsLogFormatter.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.723518
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterRunner.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.0041056946
+            },
+            "coupling": {
+                "efferent": 100
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Filter/Flags.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.52444094
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Watcher/Watcher.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterProfiler.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.37049857
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/GlobalNameUtils.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.72163904
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/LogFormatter/AbuseLogHitFormatter.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.27901724
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterGenerateTitleVarsHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38016587
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/Exception/UserVisibleWarning.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.70058906
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditBox/PlainEditBoxBuilder.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4004937
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterGenerateGenericVarsHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/UnsetVariableException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6255245
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/CheckSyntax.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.54712546
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/LogFormatter/AbuseFilterBlockedDomainHitLogFormatter.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.5735459
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterShouldFilterActionHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34912828
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Special/AbuseFilterSpecialPage.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.3042683
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Pager/GlobalAbuseFilterPager.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.23376173
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterInterceptVariableHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditRevUpdater.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.46396106
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AbuseFilterTokenizer.php",
+            "complexity": {
+                "cyclomatic": 61
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38155878
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/UnblockAutopromote.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6417129
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterCompare.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.45823398
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AFPData.php",
+            "complexity": {
+                "cyclomatic": 237
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.09563431
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/QueryAbuseFilters.php",
+            "complexity": {
+                "cyclomatic": 81
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.12744159
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Throttle.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.29850176
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/LazyVariableComputer.php",
+            "complexity": {
+                "cyclomatic": 109
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.4802762
+            },
+            "coupling": {
+                "efferent": 144
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterStore.php",
+            "complexity": {
+                "cyclomatic": 77
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.33981287
+            },
+            "coupling": {
+                "efferent": 76
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Special/BlockedExternalDomains.php",
+            "complexity": {
+                "cyclomatic": 57
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.041662812
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/SpecsFormatter.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.15680695
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterUser.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5268116
+            },
+            "coupling": {
+                "efferent": 28
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/SchemaChangesHandler.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.1421324
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/LazyLoadedVariable.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.84885037
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/VariablesBlobStore.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.457959
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/PageSaveHandler.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.8795804
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewDiff.php",
+            "complexity": {
+                "cyclomatic": 93
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.023619987
+            },
+            "coupling": {
+                "efferent": 60
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EditBox/AceEditBoxBuilder.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.35712445
+            },
+            "coupling": {
+                "efferent": 52
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterGenerateVarsForRecentChangeHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.38016587
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterHookRunner.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.41979852
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/Handlers/EchoHandler.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5316862
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/maintenance/PurgeOldLogIPData.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.27828833
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Warn.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.66331744
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/CentralDBNotAvailableException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.1779923
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/VariableHolder.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6699507
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/HideAbuseLog.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.17810817
+            },
+            "coupling": {
+                "efferent": 52
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/InvalidImportDataException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6255245
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseFilterPermissionManager.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.34852308
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/maintenance/MigrateActorsAF.php",
+            "complexity": {
+                "cyclomatic": 65
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.2981206
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterView.php",
+            "complexity": {
+                "cyclomatic": 29
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.021774217
+            },
+            "coupling": {
+                "efferent": 68
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/EmergencyCache.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.58467495
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Pager/AbuseFilterPager.php",
+            "complexity": {
+                "cyclomatic": 109
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.30855602
+            },
+            "coupling": {
+                "efferent": 52
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Block.php",
+            "complexity": {
+                "cyclomatic": 13
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.457959
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Pager/AbuseLogPager.php",
+            "complexity": {
+                "cyclomatic": 125
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.7250637
+            },
+            "coupling": {
+                "efferent": 76
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/VariableGenerator/RunVariableGenerator.php",
+            "complexity": {
+                "cyclomatic": 57
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.04908044
+            },
+            "coupling": {
+                "efferent": 64
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/Consequence/Disallow.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.774763
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/Exception/ConditionLimitException.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -1.6255245
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/RuleCheckerStatus.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.65941507
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseFilterChangesList.php",
+            "complexity": {
+                "cyclomatic": 41
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.26454192
+            },
+            "coupling": {
+                "efferent": 32
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/VariableGenerator/VariableGenerator.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.09020781
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Special/SpecialAbuseLog.php",
+            "complexity": {
+                "cyclomatic": 305
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.6163623
+            },
+            "coupling": {
+                "efferent": 136
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterLookup.php",
+            "complexity": {
+                "cyclomatic": 81
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.2019779
+            },
+            "coupling": {
+                "efferent": 72
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/SyntaxChecker.php",
+            "complexity": {
+                "cyclomatic": 105
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.111930676
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/maintenance/UpdateVarDumps.php",
+            "complexity": {
+                "cyclomatic": 209
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.4439867
+            },
+            "coupling": {
+                "efferent": 48
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/ParserStatus.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.7819833
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/ConsequencesExecutorFactory.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6345516
+            },
+            "coupling": {
+                "efferent": 40
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Consequences/ConsequencesRegistry.php",
+            "complexity": {
+                "cyclomatic": 21
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.5907395
+            },
+            "coupling": {
+                "efferent": 12
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/FilterValidator.php",
+            "complexity": {
+                "cyclomatic": 169
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.41508564
+            },
+            "coupling": {
+                "efferent": 36
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AFPTreeNode.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.6179408
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/LogFormatter/AbuseFilterModifyLogFormatter.php",
+            "complexity": {
+                "cyclomatic": 5
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.37792426
+            },
+            "coupling": {
+                "efferent": 8
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Watcher/UpdateHitCountWatcher.php",
+            "complexity": {
+                "cyclomatic": 9
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.44794118
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Api/AbuseLogPrivateDetails.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.58137655
+            },
+            "coupling": {
+                "efferent": 16
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Variables/VariablesFormatter.php",
+            "complexity": {
+                "cyclomatic": 37
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.08933196
+            },
+            "coupling": {
+                "efferent": 20
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Hooks/AbuseFilterGetDangerousActionsHook.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4119847
+            },
+            "coupling": {}
+        },
+        {
+            "path": "/tmp/AbuseFilter/maintenance/SearchFilters.php",
+            "complexity": {
+                "cyclomatic": 25
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.45823398
+            },
+            "coupling": {
+                "efferent": 4
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Pager/AbuseFilterExaminePager.php",
+            "complexity": {
+                "cyclomatic": 1
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.4330027
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/AbuseLogger.php",
+            "complexity": {
+                "cyclomatic": 65
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.16420096
+            },
+            "coupling": {
+                "efferent": 84
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/ChangeTags/ChangeTagger.php",
+            "complexity": {
+                "cyclomatic": 17
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.43004188
+            },
+            "coupling": {
+                "efferent": 24
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/View/AbuseFilterViewEdit.php",
+            "complexity": {
+                "cyclomatic": 317
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 1.9959716
+            },
+            "coupling": {
+                "efferent": 152
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/AFPTreeParser.php",
+            "complexity": {
+                "cyclomatic": 185
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": -0.04220558
+            },
+            "coupling": {
+                "efferent": 44
+            }
+        },
+        {
+            "path": "/tmp/AbuseFilter/includes/Parser/FilterEvaluator.php",
+            "complexity": {
+                "cyclomatic": 261
+            },
+            "volume": {},
+            "maintainability": {},
+            "risk": {
+                "score": 0.5587815
+            },
+            "coupling": {
+                "efferent": 100
+            }
+        }
+    ],
+    "numberFiles": 173,
+    "numberClasses": 152,
+    "numberClassesWithCode": 152,
+    "numberMethods": 950,
+    "loc": 30100,
+    "averageMethodsPerClass": 6.25,
+    "averageLocPerMethod": 18.590526315789475,
+    "averageCyclomaticComplexityPerMethod": 1.288421052631579,
+    "averageCyclomaticComplexityPerClass": 8.052631578947368,
+    "minCyclomaticComplexity": 4,
+    "maxCyclomaticComplexity": 79,
+    "averageHalsteadDifficulty": 0.7092259337047213,
+    "averageHalsteadEffort": 238.372877222927,
+    "averageHalsteadVolume": 68.65036107678162,
+    "averageHalsteadTime": 13.242937218348839,
+    "sumHalsteadDifficulty": 107.80234192311764,
+    "sumHalsteadEffort": 36232.6773378849,
+    "sumHalsteadVolume": 10434.854883670807,
+    "sumHalsteadTime": 2012.9264571890235,
+    "averageMI": 101.32403659820557,
+    "averageMIwoc": 57.56453779496645,
+    "averageMIcw": 40.38449884715833,
+    "averageMIPerMethod": 171,
+    "averageMIwocPerMethod": 171,
+    "averageEfferentCoupling": 1199,
+    "averageInstability": 0.5865015695361715,
+    "commitCountForPeriod": 111,
+    "busFactor": 2,
+    "topCommitters": [
+        {
+            "name": "Umherirrender",
+            "count": 181
+        },
+        {
+            "name": "STran",
+            "count": 63
+        },
+        {
+            "name": "Matěj Suchánek",
+            "count": 56
+        },
+        {
+            "name": "Bartosz Dziewoński",
+            "count": 22
+        }
+    ],
+    "gitAnalysis": [
+        {
+            "ProgrammingLanguage": "",
+            "ReportRootDir": "/tmp/AbuseFilter",
+            "CountCommits": 482,
+            "CountCommiters": 28,
+            "CountCommitsForLanguage": 111,
+            "CountCommitsIgnored": 371
+        }
+    ],
+    "packageRelations": {
+        "MediaWiki\\Extension": {
+            "Flow\\Data": 5,
+            "MediaWiki": 270,
+            "MediaWiki\\Block": 40,
+            "MediaWiki\\Cache": 30,
+            "MediaWiki\\ChangeTags": 5,
+            "MediaWiki\\CheckUser": 10,
+            "MediaWiki\\CommentStore": 5,
+            "MediaWiki\\Config": 60,
+            "MediaWiki\\Content": 30,
+            "MediaWiki\\Context": 95,
+            "MediaWiki\\Deferred": 55,
+            "MediaWiki\\ExternalLinks": 20,
+            "MediaWiki\\HTMLForm": 100,
+            "MediaWiki\\HookContainer": 5,
+            "MediaWiki\\Html": 640,
+            "MediaWiki\\Installer": 5,
+            "MediaWiki\\Json": 60,
+            "MediaWiki\\Language": 5,
+            "MediaWiki\\Linker": 200,
+            "MediaWiki\\Logger": 20,
+            "MediaWiki\\Message": 120,
+            "MediaWiki\\Output": 25,
+            "MediaWiki\\Page": 25,
+            "MediaWiki\\ParamValidator": 10,
+            "MediaWiki\\Parser": 15,
+            "MediaWiki\\Permissions": 190,
+            "MediaWiki\\Revision": 190,
+            "MediaWiki\\Session": 20,
+            "MediaWiki\\SpecialPage": 100,
+            "MediaWiki\\Status": 285,
+            "MediaWiki\\Storage": 25,
+            "MediaWiki\\Title": 280,
+            "MediaWiki\\User": 415,
+            "MediaWiki\\Utils": 35,
+            "MediaWiki\\WikiMap": 30,
+            "MediaWiki\\Xml": 15,
+            "OOUI": 60,
+            "Psr\\Container": 185,
+            "Psr\\Log": 95,
+            "Wikimedia": 85,
+            "Wikimedia\\Assert": 10,
+            "Wikimedia\\Diff": 15,
+            "Wikimedia\\Equivset": 10,
+            "Wikimedia\\ObjectFactory": 5,
+            "Wikimedia\\ParamValidator": 215,
+            "Wikimedia\\Rdbms": 360,
+            "Wikimedia\\WRStats": 25
+        }
+    }
+}
