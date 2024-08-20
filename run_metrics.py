@@ -10,6 +10,7 @@ def run_ast_metrics(project_directory, date):
     results = subprocess.run(['./ast-metrics', 'a', '-i', '--report-json=' + report_name, project_directory])
     print(results)
     print("saved report:" + report_name)
+    return report_name
 
 if __name__ == "__main__":
     run_ast_metrics("../ConfirmEdit")
