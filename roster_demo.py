@@ -13,7 +13,8 @@ def list_roster(repo_path):
     for commit in commits:
         #print(commit.tree)
         #added_lines, removed_lines, files_changed = get_diff_count(commit)
-        commit_author_info = {"name": commit.author.name, "email":commit.author.email, 'commits': 1, 'added_lines': 0, 'removed_lines': 0, "files_changed": 0}
+        added_lines, removed_lines, files_changed = 0,0,0
+        commit_author_info = {"name": commit.author.name, "email":commit.author.email, 'commits': 1, 'added_lines': added_lines, 'removed_lines': removed_lines, "files_changed": files_changed}
         if "-bot@" in commit_author_info['email']:
             if commit_author_info['email'] not in bots.keys():
                 bots[commit_author_info['email']] = commit_author_info
