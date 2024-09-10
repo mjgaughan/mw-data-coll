@@ -32,8 +32,12 @@ def join_metrics(filename, roster):
 
 
 if __name__ == "__main__":
-    #main("Echo", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Echo", "d9aef933bb2f580fb646f33c131b559b3cec1552")
-    main("ConfirmEdit", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/ConfirmEdit", "2024-05-25",  "2024-08-25")
-    #main("AbuseFilter", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/AbuseFilter", "ad732457f02053cb30feef369e88dca215a5b073")
-    #main("OAuth", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/OAuth", "b820d2ad1361c240b7b5c3e8e5e9691f4b98f50a")
-    #main("CheckUser", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/CheckUser", "a3443da5504e660687b9363ff47c09b27d51b7ca")
+    #main("Echo", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Echo", "2024-06-08",  "2024-09-08")
+    #main("ConfirmEdit", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/ConfirmEdit", "2024-06-08",  "2024-09-08")
+    #main("CheckUser", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/CheckUser", "2024-06-08",  "2024-09-08")
+    #main("Thanks", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Thanks", "2024-06-08",  "2024-09-08")
+    #main("Gadgets", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Gadgets", "2024-06-08",  "2024-09-08")
+    #main("AbuseFilter", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/AbuseFilter", "2024-06-08",  "2024-09-08")
+    #main("Cite", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Cite", "2024-06-08",  "2024-09-08")
+    main("WikiLove", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/WikiLove", "2024-06-08",  "2024-09-08")
+    main("VisualEditor", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/VisualEditor", "2024-06-08",  "2024-09-08")

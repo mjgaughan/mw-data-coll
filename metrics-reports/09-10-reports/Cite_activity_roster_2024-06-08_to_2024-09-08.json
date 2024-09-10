@@ -1,0 +1,136 @@
+{
+      "bots": {
+            "jenkins-bot@gerrit.wikimedia.org": {
+                  "name": "jenkins-bot",
+                  "email": "jenkins-bot@gerrit.wikimedia.org",
+                  "commits": 76,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "l10n-bot@translatewiki.net": {
+                  "name": "Translation updater bot",
+                  "email": "l10n-bot@translatewiki.net",
+                  "commits": 38,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "wmf_authors": {
+            "adam.wight@wikimedia.de": {
+                  "name": "Adam Wight",
+                  "email": "adam.wight@wikimedia.de",
+                  "commits": 35,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "thiemo.kreuz@wikimedia.de": {
+                  "name": "thiemowmde",
+                  "email": "thiemo.kreuz@wikimedia.de",
+                  "commits": 28,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "christoph.jauera@wikimedia.de": {
+                  "name": "WMDE-Fisch",
+                  "email": "christoph.jauera@wikimedia.de",
+                  "commits": 33,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ihurbainpalatin@wikimedia.org": {
+                  "name": "Isabelle Hurbain-Palatin",
+                  "email": "ihurbainpalatin@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ssastry@wikimedia.org": {
+                  "name": "Subramanya Sastry",
+                  "email": "ssastry@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mareike.heuer@wikimedia.de": {
+                  "name": "mareikeheuer",
+                  "email": "mareike.heuer@wikimedia.de",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jforrester@wikimedia.org": {
+                  "name": "James D. Forrester",
+                  "email": "jforrester@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "esanders@wikimedia.org": {
+                  "name": "Ed Sanders",
+                  "email": "esanders@wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dlynch@wikimedia.org": {
+                  "name": "David Lynch",
+                  "email": "dlynch@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "abreault@wikimedia.org": {
+                  "name": "Arlo Breault",
+                  "email": "abreault@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "kharlan@wikimedia.org": {
+                  "name": "Kosta Harlan",
+                  "email": "kharlan@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "volunteers": {
+            "raimond.spekking@gmail.com": {
+                  "name": "Raimond Spekking",
+                  "email": "raimond.spekking@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tools.libraryupgrader@tools.wmflabs.org": {
+                  "name": "libraryupgrader",
+                  "email": "tools.libraryupgrader@tools.wmflabs.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "umherirrender_de.wp@web.de": {
+                  "name": "Umherirrender",
+                  "email": "umherirrender_de.wp@web.de",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      }
+}

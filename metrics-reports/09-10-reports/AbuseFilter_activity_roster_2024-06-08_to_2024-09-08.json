@@ -1,0 +1,176 @@
+{
+      "bots": {
+            "jenkins-bot@gerrit.wikimedia.org": {
+                  "name": "jenkins-bot",
+                  "email": "jenkins-bot@gerrit.wikimedia.org",
+                  "commits": 37,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "l10n-bot@translatewiki.net": {
+                  "name": "Translation updater bot",
+                  "email": "l10n-bot@translatewiki.net",
+                  "commits": 54,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "wmf_authors": {
+            "ebernhardson@wikimedia.org": {
+                  "name": "Erik Bernhardson",
+                  "email": "ebernhardson@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "wpgbrown@wikimedia.org": {
+                  "name": "Dreamy Jazz",
+                  "email": "wpgbrown@wikimedia.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "thiemo.kreuz@wikimedia.de": {
+                  "name": "thiemowmde",
+                  "email": "thiemo.kreuz@wikimedia.de",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jforrester@wikimedia.org": {
+                  "name": "James D. Forrester",
+                  "email": "jforrester@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "stran@wikimedia.org": {
+                  "name": "STran",
+                  "email": "stran@wikimedia.org",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "kharlan@wikimedia.org": {
+                  "name": "Kosta Harlan",
+                  "email": "kharlan@wikimedia.org",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jakob.warkotsch@wikimedia.de": {
+                  "name": "Jakob Warkotsch",
+                  "email": "jakob.warkotsch@wikimedia.de",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "reedy@wikimedia.org": {
+                  "name": "Reedy",
+                  "email": "reedy@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "volunteers": {
+            "anne.haunime@gmail.com": {
+                  "name": "Anne Haunime",
+                  "email": "anne.haunime@gmail.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tools.libraryupgrader@tools.wmflabs.org": {
+                  "name": "libraryupgrader",
+                  "email": "tools.libraryupgrader@tools.wmflabs.org",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "daimona.wiki@gmail.com": {
+                  "name": "Daimona Eaytoy",
+                  "email": "daimona.wiki@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dziewonski@fastmail.fm": {
+                  "name": "Bartosz Dziewo\u0144ski",
+                  "email": "dziewonski@fastmail.fm",
+                  "commits": 7,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ebrahim@gnu.org": {
+                  "name": "Ebrahim Byagowi",
+                  "email": "ebrahim@gnu.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "fomafix@googlemail.com": {
+                  "name": "Fomafix",
+                  "email": "fomafix@googlemail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "umherirrender_de.wp@web.de": {
+                  "name": "Umherirrender",
+                  "email": "umherirrender_de.wp@web.de",
+                  "commits": 7,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "zeljko.filipin@gmail.com": {
+                  "name": "\u017deljko Filipin",
+                  "email": "zeljko.filipin@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "matejsuchanek97@gmail.com": {
+                  "name": "Mat\u011bj Such\u00e1nek",
+                  "email": "matejsuchanek97@gmail.com",
+                  "commits": 7,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "xuminruixuan@live.cn": {
+                  "name": "anterdc99",
+                  "email": "xuminruixuan@live.cn",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "collinschuwa@gmail.com": {
+                  "name": "Wandji69",
+                  "email": "collinschuwa@gmail.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      }
+}

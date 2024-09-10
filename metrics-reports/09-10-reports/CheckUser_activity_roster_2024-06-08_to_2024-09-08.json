@@ -1,0 +1,144 @@
+{
+      "bots": {
+            "jenkins-bot@gerrit.wikimedia.org": {
+                  "name": "jenkins-bot",
+                  "email": "jenkins-bot@gerrit.wikimedia.org",
+                  "commits": 94,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "l10n-bot@translatewiki.net": {
+                  "name": "Translation updater bot",
+                  "email": "l10n-bot@translatewiki.net",
+                  "commits": 44,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "wmf_authors": {
+            "wpgbrown@wikimedia.org": {
+                  "name": "Dreamy Jazz",
+                  "email": "wpgbrown@wikimedia.org",
+                  "commits": 73,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mszabo@wikimedia.org": {
+                  "name": "M\u00e1t\u00e9 Szab\u00f3",
+                  "email": "mszabo@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "stran@wikimedia.org": {
+                  "name": "STran",
+                  "email": "stran@wikimedia.org",
+                  "commits": 6,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "hokwelum@wikimedia.org": {
+                  "name": "Hannah Okwelum",
+                  "email": "hokwelum@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "lucas.werkmeister@wikimedia.de": {
+                  "name": "Lucas Werkmeister",
+                  "email": "lucas.werkmeister@wikimedia.de",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "kharlan@wikimedia.org": {
+                  "name": "Kosta Harlan",
+                  "email": "kharlan@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "esanders@wikimedia.org": {
+                  "name": "Ed Sanders",
+                  "email": "esanders@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "volunteers": {
+            "mapreader@olum.org": {
+                  "name": "Pppery",
+                  "email": "mapreader@olum.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jamie.kuppens@thisdot.co": {
+                  "name": "Jamie Kuppens",
+                  "email": "jamie.kuppens@thisdot.co",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tools.libraryupgrader@tools.wmflabs.org": {
+                  "name": "libraryupgrader",
+                  "email": "tools.libraryupgrader@tools.wmflabs.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "fomafix@googlemail.com": {
+                  "name": "Fomafix",
+                  "email": "fomafix@googlemail.com",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dziewonski@fastmail.fm": {
+                  "name": "Bartosz Dziewo\u0144ski",
+                  "email": "dziewonski@fastmail.fm",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "thalia.e.chan@googlemail.com": {
+                  "name": "Thalia",
+                  "email": "thalia.e.chan@googlemail.com",
+                  "commits": 22,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "umherirrender_de.wp@web.de": {
+                  "name": "Umherirrender",
+                  "email": "umherirrender_de.wp@web.de",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "collinschuwa@gmail.com": {
+                  "name": "Wandji69",
+                  "email": "collinschuwa@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      }
+}

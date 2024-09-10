@@ -1,0 +1,72 @@
+{
+      "bots": {
+            "jenkins-bot@gerrit.wikimedia.org": {
+                  "name": "jenkins-bot",
+                  "email": "jenkins-bot@gerrit.wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "l10n-bot@translatewiki.net": {
+                  "name": "Translation updater bot",
+                  "email": "l10n-bot@translatewiki.net",
+                  "commits": 33,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "wmf_authors": {
+            "kgraessle@wikimedia.org": {
+                  "name": "Kgraessle",
+                  "email": "kgraessle@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jforrester@wikimedia.org": {
+                  "name": "James D. Forrester",
+                  "email": "jforrester@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "reedy@wikimedia.org": {
+                  "name": "Reedy",
+                  "email": "reedy@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "volunteers": {
+            "fomafix@googlemail.com": {
+                  "name": "Fomafix",
+                  "email": "fomafix@googlemail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tools.libraryupgrader@tools.wmflabs.org": {
+                  "name": "libraryupgrader",
+                  "email": "tools.libraryupgrader@tools.wmflabs.org",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "umherirrender_de.wp@web.de": {
+                  "name": "Umherirrender",
+                  "email": "umherirrender_de.wp@web.de",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      }
+}
