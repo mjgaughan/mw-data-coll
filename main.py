@@ -39,5 +39,6 @@ if __name__ == "__main__":
     #main("Gadgets", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Gadgets", "2024-06-08",  "2024-09-08")
     #main("AbuseFilter", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/AbuseFilter", "2024-06-08",  "2024-09-08")
     #main("Cite", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/Cite", "2024-06-08",  "2024-09-08")
-    main("WikiLove", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/WikiLove", "2024-06-08",  "2024-09-08")
-    main("VisualEditor", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/VisualEditor", "2024-06-08",  "2024-09-08")
+    #main("WikiLove", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/WikiLove", "2024-06-08",  "2024-09-08")
+    #main("VisualEditor", "https://gerrit-replica.wikimedia.org/r/mediawiki/extensions/VisualEditor", "2024-06-08",  "2024-09-08")
+    main("core-mediawiki", "https://gerrit.wikimedia.org/r/mediawiki/core", "2024-06-08", "2024-09-08")

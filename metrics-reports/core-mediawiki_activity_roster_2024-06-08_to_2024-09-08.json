@@ -1,0 +1,952 @@
+{
+      "bots": {
+            "jenkins-bot@gerrit.wikimedia.org": {
+                  "name": "jenkins-bot",
+                  "email": "jenkins-bot@gerrit.wikimedia.org",
+                  "commits": 888,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "l10n-bot@translatewiki.net": {
+                  "name": "Translation updater bot",
+                  "email": "l10n-bot@translatewiki.net",
+                  "commits": 63,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "wmf_authors": {
+            "aschulz@wikimedia.org": {
+                  "name": "Aaron Schulz",
+                  "email": "aschulz@wikimedia.org",
+                  "commits": 34,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ihurbainpalatin@wikimedia.org": {
+                  "name": "Isabelle Hurbain-Palatin",
+                  "email": "ihurbainpalatin@wikimedia.org",
+                  "commits": 13,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "wpgbrown@wikimedia.org": {
+                  "name": "Dreamy Jazz",
+                  "email": "wpgbrown@wikimedia.org",
+                  "commits": 36,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dkinzler@wikimedia.org": {
+                  "name": "daniel",
+                  "email": "dkinzler@wikimedia.org",
+                  "commits": 24,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "thiemo.kreuz@wikimedia.de": {
+                  "name": "thiemowmde",
+                  "email": "thiemo.kreuz@wikimedia.de",
+                  "commits": 29,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "hokwelum@wikimedia.org": {
+                  "name": "Hannah Okwelum",
+                  "email": "hokwelum@wikimedia.org",
+                  "commits": 8,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ssastry@wikimedia.org": {
+                  "name": "Subramanya Sastry",
+                  "email": "ssastry@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jforrester@wikimedia.org": {
+                  "name": "James D. Forrester",
+                  "email": "jforrester@wikimedia.org",
+                  "commits": 28,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ssethi@wikimedia.org": {
+                  "name": "Srishakatux",
+                  "email": "ssethi@wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jgiannelos@wikimedia.org": {
+                  "name": "Yiannis Giannelos",
+                  "email": "jgiannelos@wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mszabo@wikimedia.org": {
+                  "name": "M\u00e1t\u00e9 Szab\u00f3",
+                  "email": "mszabo@wikimedia.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "gtisza@wikimedia.org": {
+                  "name": "Gerg\u0151 Tisza",
+                  "email": "gtisza@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "cwhite@wikimedia.org": {
+                  "name": "Cole White",
+                  "email": "cwhite@wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "lwatson@wikimedia.org": {
+                  "name": "lwatson",
+                  "email": "lwatson@wikimedia.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mmunyoki@wikimedia.org": {
+                  "name": "mary123",
+                  "email": "mmunyoki@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jdrewniak@wikimedia.org": {
+                  "name": "Jdrewniak",
+                  "email": "jdrewniak@wikimedia.org",
+                  "commits": 6,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ngkountas@wikimedia.org": {
+                  "name": "NikG",
+                  "email": "ngkountas@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mgrosse@wikimedia.org": {
+                  "name": "Michael Gro\u00dfe",
+                  "email": "mgrosse@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "abreault@wikimedia.org": {
+                  "name": "Arlo Breault",
+                  "email": "abreault@wikimedia.org",
+                  "commits": 14,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "bpirkle@wikimedia.org": {
+                  "name": "bpirkle",
+                  "email": "bpirkle@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "lucas.werkmeister@wikimedia.de": {
+                  "name": "Lucas Werkmeister",
+                  "email": "lucas.werkmeister@wikimedia.de",
+                  "commits": 14,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "reedy@wikimedia.org": {
+                  "name": "Reedy",
+                  "email": "reedy@wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "sgimeno@wikimedia.org": {
+                  "name": "Sergio Gimeno",
+                  "email": "sgimeno@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "aotto@wikimedia.org": {
+                  "name": "Ottomata",
+                  "email": "aotto@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "stran@wikimedia.org": {
+                  "name": "STran",
+                  "email": "stran@wikimedia.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "kharlan@wikimedia.org": {
+                  "name": "Kosta Harlan",
+                  "email": "kharlan@wikimedia.org",
+                  "commits": 50,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "wquarshie@wikimedia.org": {
+                  "name": "Wendy Quarshie",
+                  "email": "wquarshie@wikimedia.org",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "scardenasmolinar@wikimedia.org": {
+                  "name": "suecarmol",
+                  "email": "scardenasmolinar@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "fgoodwin@wikimedia.org": {
+                  "name": "frankie",
+                  "email": "fgoodwin@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "arthur.taylor@wikimedia.de": {
+                  "name": "Arthur Taylor",
+                  "email": "arthur.taylor@wikimedia.de",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "apaskulin@wikimedia.org": {
+                  "name": "apaskulin",
+                  "email": "apaskulin@wikimedia.org",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jrobson@wikimedia.org": {
+                  "name": "Jdlrobson",
+                  "email": "jrobson@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tstarling@wikimedia.org": {
+                  "name": "Tim Starling",
+                  "email": "tstarling@wikimedia.org",
+                  "commits": 9,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "volker.e@wikimedia.org": {
+                  "name": "Volker E.",
+                  "email": "volker.e@wikimedia.org",
+                  "commits": 11,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "stoyofuku@wikimedia.org": {
+                  "name": "Steph Toyofuku",
+                  "email": "stoyofuku@wikimedia.org",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "pnjira@wikimedia.org": {
+                  "name": "Atieno",
+                  "email": "pnjira@wikimedia.org",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "atomasevich@wikimedia.org": {
+                  "name": "Anne Tomasevich",
+                  "email": "atomasevich@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "hmonroy@wikimedia.org": {
+                  "name": "hmonroy",
+                  "email": "hmonroy@wikimedia.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jakob.warkotsch@wikimedia.de": {
+                  "name": "Jakob Warkotsch",
+                  "email": "jakob.warkotsch@wikimedia.de",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "xcollazo@wikimedia.org": {
+                  "name": "Xabriel J. Collazo Mojica",
+                  "email": "xcollazo@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "oliver.shotton@wikimedia.de": {
+                  "name": "Ollie Shotton",
+                  "email": "oliver.shotton@wikimedia.de",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "pcoombe@wikimedia.org": {
+                  "name": "pcoombe",
+                  "email": "pcoombe@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "esanders@wikimedia.org": {
+                  "name": "Ed Sanders",
+                  "email": "esanders@wikimedia.org",
+                  "commits": 6,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "bwang@wikimedia.org": {
+                  "name": "bwang",
+                  "email": "bwang@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "christoph.jauera@wikimedia.de": {
+                  "name": "WMDE-Fisch",
+                  "email": "christoph.jauera@wikimedia.de",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "roan@wikimedia.org": {
+                  "name": "Catrope",
+                  "email": "roan@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "phuedx@wikimedia.org": {
+                  "name": "Sam Smith",
+                  "email": "phuedx@wikimedia.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      },
+      "volunteers": {
+            "ebrahim@gnu.org": {
+                  "name": "Ebrahim Byagowi",
+                  "email": "ebrahim@gnu.org",
+                  "commits": 87,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jdlrobson@gmail.com": {
+                  "name": "Jon Robson",
+                  "email": "jdlrobson@gmail.com",
+                  "commits": 12,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mapreader@olum.org": {
+                  "name": "Pppery",
+                  "email": "mapreader@olum.org",
+                  "commits": 8,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "umherirrender_de.wp@web.de": {
+                  "name": "Umherirrender",
+                  "email": "umherirrender_de.wp@web.de",
+                  "commits": 79,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ammarpad@yahoo.com": {
+                  "name": "Ammarpad",
+                  "email": "ammarpad@yahoo.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "krinkle@fastmail.com": {
+                  "name": "Timo Tijhof",
+                  "email": "krinkle@fastmail.com",
+                  "commits": 34,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "fomafix@googlemail.com": {
+                  "name": "Fomafix",
+                  "email": "fomafix@googlemail.com",
+                  "commits": 14,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mszabo@fandom.com": {
+                  "name": "M\u00e1t\u00e9 Szab\u00f3",
+                  "email": "mszabo@fandom.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "cscott@cscott.net": {
+                  "name": "C. Scott Ananian",
+                  "email": "cscott@cscott.net",
+                  "commits": 34,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "zabe@avorwerk.net": {
+                  "name": "Alexander Vorwerk",
+                  "email": "zabe@avorwerk.net",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "gardner.ec@gmail.com": {
+                  "name": "Eric Gardner",
+                  "email": "gardner.ec@gmail.com",
+                  "commits": 6,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dziewonski@fastmail.fm": {
+                  "name": "Bartosz Dziewo\u0144ski",
+                  "email": "dziewonski@fastmail.fm",
+                  "commits": 83,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "amir.aharoni@mail.huji.ac.il": {
+                  "name": "Amir E. Aharoni",
+                  "email": "amir.aharoni@mail.huji.ac.il",
+                  "commits": 25,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dreamyjazzwikipedia@gmail.com": {
+                  "name": "Dreamy Jazz",
+                  "email": "dreamyjazzwikipedia@gmail.com",
+                  "commits": 70,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "Funcer@outlook.com": {
+                  "name": "Func",
+                  "email": "Funcer@outlook.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "pleasestand@live.com": {
+                  "name": "Kevin Israel",
+                  "email": "pleasestand@live.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ladsgroup@gmail.com": {
+                  "name": "Amir Sarabadani",
+                  "email": "ladsgroup@gmail.com",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "roan.kattouw@gmail.com": {
+                  "name": "Roan Kattouw",
+                  "email": "roan.kattouw@gmail.com",
+                  "commits": 12,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "marcinszwarc@hotmail.com": {
+                  "name": "Msz2001",
+                  "email": "marcinszwarc@hotmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "musikanimal@gmail.com": {
+                  "name": "MusikAnimal",
+                  "email": "musikanimal@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tgr.huwiki@gmail.com": {
+                  "name": "Gerg\u0151 Tisza",
+                  "email": "tgr.huwiki@gmail.com",
+                  "commits": 16,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "nerim4n@pm.me": {
+                  "name": "Nemoralis",
+                  "email": "nerim4n@pm.me",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "zeljko.filipin@gmail.com": {
+                  "name": "\u017deljko Filipin",
+                  "email": "zeljko.filipin@gmail.com",
+                  "commits": 7,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "rybak.a.v@gmail.com": {
+                  "name": "Andrei Rybak",
+                  "email": "rybak.a.v@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "hartman.wiki@gmail.com": {
+                  "name": "Derk-Jan Hartman",
+                  "email": "hartman.wiki@gmail.com",
+                  "commits": 8,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "meno25mail@gmail.com": {
+                  "name": "Meno25",
+                  "email": "meno25mail@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "winston21.sung@gmail.com": {
+                  "name": "Winston Sung",
+                  "email": "winston21.sung@gmail.com",
+                  "commits": 5,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "DannyS712.enwiki@gmail.com": {
+                  "name": "DannyS712",
+                  "email": "DannyS712.enwiki@gmail.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jamie.kuppens@thisdot.co": {
+                  "name": "Jamie Kuppens",
+                  "email": "jamie.kuppens@thisdot.co",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "raimond.spekking@gmail.com": {
+                  "name": "Raimond Spekking",
+                  "email": "raimond.spekking@gmail.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "matejsuchanek97@gmail.com": {
+                  "name": "Mat\u011bj Such\u00e1nek",
+                  "email": "matejsuchanek97@gmail.com",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "schenonef@gmail.com": {
+                  "name": "Sophivorus",
+                  "email": "schenonef@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mail@lucaswerkmeister.de": {
+                  "name": "Lucas Werkmeister",
+                  "email": "mail@lucaswerkmeister.de",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "chiefwei1989@gmail.com": {
+                  "name": "Chiefwei",
+                  "email": "chiefwei1989@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "parthivmenon.dev@gmail.com": {
+                  "name": "theprotonade",
+                  "email": "parthivmenon.dev@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "blankeclair@disroot.org": {
+                  "name": "BlankEclair",
+                  "email": "blankeclair@disroot.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jhsoby@gmail.com": {
+                  "name": "Jon Harald S\u00f8by",
+                  "email": "jhsoby@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "novemlinguae@gmail.com": {
+                  "name": "Novem Linguae",
+                  "email": "novemlinguae@gmail.com",
+                  "commits": 17,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "alex@blueselene.com": {
+                  "name": "Alex",
+                  "email": "alex@blueselene.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "anujagrawal380@gmail.com": {
+                  "name": "Anuj Agrawal",
+                  "email": "anujagrawal380@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "thalia.e.chan@googlemail.com": {
+                  "name": "Thalia",
+                  "email": "thalia.e.chan@googlemail.com",
+                  "commits": 19,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "dannys712.wiki@gmail.com": {
+                  "name": "DannyS712",
+                  "email": "dannys712.wiki@gmail.com",
+                  "commits": 8,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "legoktm@debian.org": {
+                  "name": "Kunal Mehta",
+                  "email": "legoktm@debian.org",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jayden@weirdgloop.org": {
+                  "name": "Jayden Bailey",
+                  "email": "jayden@weirdgloop.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "anull21@yahoo.com": {
+                  "name": "Seawolf35gerrit",
+                  "email": "anull21@yahoo.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "alangiderick@gmail.com": {
+                  "name": "Derick Alangi",
+                  "email": "alangiderick@gmail.com",
+                  "commits": 20,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "addshorewiki@gmail.com": {
+                  "name": "addshore",
+                  "email": "addshorewiki@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "hi@taavi.wtf": {
+                  "name": "Taavi V\u00e4\u00e4n\u00e4nen",
+                  "email": "hi@taavi.wtf",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "abaris@null.net": {
+                  "name": "Do\u011fu Abaris",
+                  "email": "abaris@null.net",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "sky2042@gmail.com": {
+                  "name": "Steven Rawson",
+                  "email": "sky2042@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "gerges.shamoon.dev@gmail.com": {
+                  "name": "GergesShamon",
+                  "email": "gerges.shamoon.dev@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "daimona.wiki@gmail.com": {
+                  "name": "Daimona Eaytoy",
+                  "email": "daimona.wiki@gmail.com",
+                  "commits": 10,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mimurawil@gmail.com": {
+                  "name": "mimurawil",
+                  "email": "mimurawil@gmail.com",
+                  "commits": 4,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "nokibsarkar@gmail.com": {
+                  "name": "nokibsarkar",
+                  "email": "nokibsarkar@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "wikimedia@agamya.dev": {
+                  "name": "agamyasamuel",
+                  "email": "wikimedia@agamya.dev",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "collinschuwa@gmail.com": {
+                  "name": "Wandji69",
+                  "email": "collinschuwa@gmail.com",
+                  "commits": 3,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "xtexchooser@duck.com": {
+                  "name": "xtex",
+                  "email": "xtexchooser@duck.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "bawolff+wn@gmail.com": {
+                  "name": "Brian Wolff",
+                  "email": "bawolff+wn@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "zorandori4444@gmail.com": {
+                  "name": "Zoranzoki21",
+                  "email": "zorandori4444@gmail.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "xuminruixuan@live.cn": {
+                  "name": "anterdc99",
+                  "email": "xuminruixuan@live.cn",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mszabo@wikia-inc.com": {
+                  "name": "M\u00e1t\u00e9 Szab\u00f3",
+                  "email": "mszabo@wikia-inc.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "rhinosf1@gmail.com": {
+                  "name": "RhinosF1",
+                  "email": "rhinosf1@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "ashley@uncyclomedia.co": {
+                  "name": "Jack Phoenix",
+                  "email": "ashley@uncyclomedia.co",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "mmwootten@outlook.com": {
+                  "name": "vahurzpu",
+                  "email": "mmwootten@outlook.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "jan.drewniak@gmail.com": {
+                  "name": "Jan Drewniak",
+                  "email": "jan.drewniak@gmail.com",
+                  "commits": 2,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "tools.libraryupgrader@tools.wmflabs.org": {
+                  "name": "libraryupgrader",
+                  "email": "tools.libraryupgrader@tools.wmflabs.org",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "razesoldier@outlook.com": {
+                  "name": "RazeSoldier",
+                  "email": "razesoldier@outlook.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "sohomdatta1+git@gmail.com": {
+                  "name": "Sohom",
+                  "email": "sohomdatta1+git@gmail.com",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            },
+            "lewis@lewiscawte.me": {
+                  "name": "Lewis Cawte",
+                  "email": "lewis@lewiscawte.me",
+                  "commits": 1,
+                  "added_lines": 0,
+                  "removed_lines": 0,
+                  "files_changed": 0
+            }
+      }
+}
